@@ -6,3 +6,4 @@
 /.vs
 /MicroRabbit/.vs/MicroRabbit/v16
 /MicroRabbit/MicroRabbit.Domain.Core/obj
+/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1
