@@ -8,3 +8,7 @@
 /MicroRabbit/MicroRabbit.Domain.Core/obj
 /MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1
 *.v2
+*.pdb
+/MicroRabbit/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1
+/MicroRabbit/MicroRabbit.Infra.Bus/obj
+/MicroRabbit/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1
